@@ -1,3 +1,9 @@
+---
+title: "CV"
+permalink: "/cv/"
+layout: page
+---
+
 ## Work experience:
 
 **EVAE LAB / Internship (2022)** 

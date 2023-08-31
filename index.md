@@ -2,15 +2,17 @@
 layout: default
 title: "Home"
 ---
+*
 
-<p align="center">
-Hello traveller!!!
+> Hello traveler!!!  I'm a recent graduate in Automation Engineering
+> with a lot of creativity and not enough time to work on all of my
+> projects. This website is the place where I hopefully document some of
+> them along with events from my professional career.  My interests are
+> in hardware development, biomedical engineering, electric mobility,
+> and machine learning.  Hope you find whatever you're looking for!  
+> :D
 
-My name is Maro Michailidou, an Automation Engineer with a lot of creativity and not enough time for all of my projects. 
-
-This is the place where I document some of my projects. Hope you find whatever you're looking for. 
-</p>
-
+*
 
 {% if site.show_excerpts %}
   {% include home.html %}

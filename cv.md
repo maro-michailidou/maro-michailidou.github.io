@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 permalink: "/cv/"
 layout: page
 ---
@@ -23,7 +23,8 @@ completed in the expand of two weeks.
 **International Hellenic University / Automation Engineering Degree (2016-2022)**
 Bachelor’s degree with focus on Electrical and Electronics engineering,
 Mechatronics, Industrial Control Systems, SCADA and HMI solutions.
-International Hellenic University / E-DRIVE-TOUR
+
+**ECQA CERTIFICATE of Sustainable Electric Mobility Engineering Expert (2022)**
 Certification on the knowledge of Vehicle Electrification based on the
 E-DRIVE-TOUR Erasmus plus programme with cooperation from the
 University of Craiova and the University of Radom.

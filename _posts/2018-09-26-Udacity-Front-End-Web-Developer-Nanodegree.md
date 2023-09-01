@@ -6,8 +6,6 @@ categories: media
 ---
 
 
-## Udacity Front End Web Developer Nanodegree
-
 
 ![Udacity Front End Certification showing name,date of completion etc](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/aa674dc6-5ba1-4bf2-9bdd-f3cec9ae1c9a.svg)
 

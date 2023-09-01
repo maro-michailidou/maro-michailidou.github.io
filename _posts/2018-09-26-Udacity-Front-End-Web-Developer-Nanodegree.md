@@ -14,12 +14,11 @@ categories: media
 
 Scholarship recipient from Udacity and Google after participating in the introductory course lasting four months. Fulfilled the courses on HTML, CSS and object-oriented Javascript and provided community support to a satisfactory degree to be chosen to attend the second phase of the program. For the next six months of the program, I completed the necessary courses on front end web development frameworks like ReactJS and Angular plus unit testing, accessibility, and version control with Git plus all the necessary projects to obtain the final nanodegree certification which are listed below.
 
-
 **Most important projects are:** 
-[Memory cards game](https://github.com/maro-michailidou/frontend-nanodegree-arcade-game)
-[MyReads Web App for tracking book reading.](https://github.com/maro-michailidou/fend-react-myreads)
-[Thessaloniki Sights Map with Wikipedia API](https://github.com/maro-michailidou/fend-react-maps)
 
+ 1. [Memory cards game](https://github.com/maro-michailidou/frontend-nanodegree-arcade-game)
+ 2. [MyReads Web App for tracking book reading.](https://github.com/maro-michailidou/fend-react-myreads)
+ 3. [Thessaloniki Sights Map with Wikipedia API](https://github.com/maro-michailidou/fend-react-maps)
 
 
 

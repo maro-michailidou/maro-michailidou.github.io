@@ -1,8 +1,9 @@
 ---
-title: "Equipment I use"
+title: "Equipment I use:"
 permalink: "/equipment/"
 layout: page
 ---
+
 
 ## Equipment:
 
@@ -10,23 +11,26 @@ layout: page
 
 
 **Lenovo B5400 laptop:** 
-16gb RAM, 2 SSDs, Ubuntu 20.04 Foccal Fossa + Windows 10.
-Mostly for professional programs and serious hardware demands.
-Still going strong after 7 years of use!
+ - 16gb RAM, 2 SSDs, Ubuntu 20.04 Focal Fossa + Windows 10.
+ - Mostly for professional programs and serious hardware demands.
+ - Still going strong after 7 years of use!
+
  
 **Asus E210M:** 
-Ubuntu 20.04 Foccal Fossa + Windows 10.
-Great for note taking and light use on the go. 
-
+ - Ubuntu 20.04 Focal Fossa + Windows 10.
+ - Great for note taking and light use on the go.
 
 **Microcontrollers:**
-Arduino
-Pico
-ESP32
+ - Arduino
+ - Pico
+ - ESP32
 
 **Microcomputers:**
-Raspberry Pi 3B+
-Beaglebone Black rev.C
+ - Raspberry Pi 3B+
+ - Beaglebone Black rev.C
 
 **Casio 791W:**
-No battery to charge. Pretty orange color. What more could one want?
+ - Easily replaceable battery that lasts for a year.
+ - Pretty orange color.
+ - What more could one want?
+

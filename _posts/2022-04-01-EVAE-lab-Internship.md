@@ -38,7 +38,7 @@ categories: media
    the process of creating video tutorials for masters students on the procedure.
    
  - Represented the lab in the Thessaloniki International Fair and the
-   Beyond Exhibition ([more about that on this post](https://maro-michailidou.eu/tif-beyond/)).
+   Beyond Exhibition. Relevant post [here](https://maro-michailidou.eu/tif-beyond/).
  - Helped setup and calibrate a 3D printer [Flashforge Creator 3](https://www.flashforge.com/product-detail/flashforge-creator-3-fdm-3d-printer) for
    the lab of [Electronics and Energy Harvesting of IHU.](http://microengineering.iem.ihu.gr/) Printed my thesis project's enclosure there after the guidance of the supervising professor Dr.Kiziroglou. 
 

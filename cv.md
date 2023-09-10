@@ -56,3 +56,13 @@ where submitted made with HTML, CSS, React JS.
 **Udacity / AWS Machine Learning Basics Nanodegree (2021)**
 
 Certification of machine learning basics with Python and TensorFlow.
+
+## **Publications:**
+* [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBantis.pdf), _M. Michailidou, A. Bantis (2022)
+
+
+* [Fabrication and Development of an Optical Biomedical Sensor](http://www.microengineering.teithe.gr/WoMGREECE2021/2021_WOM_Proceedings.pdf), _A. Bantis, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-05)_
+
+
+* [From Microtechnology to Nanotechnology](http://www.microengineering.teithe.gr/WoMGREECE2020/2020_WOM_Proceedings.pdf), _D. Bagdatoglou, N. Balp, A. Bantis, R. Beal, Y. Carmichael, C. I. Danaskou, K. Georgiadis, M. Michailidou, A. Nikolopoulos, S. Ntemkas, D. Parastatidou, V. Petitjean, H. Schaefer and N. Traikoudis (20WOM-04)_
+

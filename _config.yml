@@ -31,6 +31,3 @@ comments:
 
 plugins:
  - jekyll-feed
-
- gems:
-  - jekyll-sitemap

@@ -59,11 +59,15 @@ Design, fabrication and writing CE technical files for a prototype of a non-inva
    Certification of machine learning basics with Python and TensorFlow.
 
 ## **Publications:**
+
+* [Medium scale projects as a means for educating students on electric vehicle technology](http://microengineering.iem.ihu.gr/WoMGREECE/2022_WOM_Proceedings.pdf), _M. Michailidou, , M. Ciudin, E. V. Enache, A. Samaras
+and X. Fejzo (22WOM-07)_
+
 * [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBantis.pdf), _A. Bantis, M. Michailidou (2022)_
 
 
-* [Fabrication and Development of an Optical Biomedical Sensor](http://www.microengineering.teithe.gr/WoMGREECE2021/2021_WOM_Proceedings.pdf), _A. Bantis, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-05)_
+* [Fabrication and Development of an Optical Biomedical Sensor](http://www.microengineering.teithe.gr/WoMGREECE2021/2021_WOM_Proceedings.pdf), _A. Bantis, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-06)_
 
 
-* [From Microtechnology to Nanotechnology](http://www.microengineering.teithe.gr/WoMGREECE2020/2020_WOM_Proceedings.pdf), _D. Bagdatoglou, N. Balp, A. Bantis, R. Beal, Y. Carmichael, C. I. Danaskou, K. Georgiadis, M. Michailidou, A. Nikolopoulos, S. Ntemkas, D. Parastatidou, V. Petitjean, H. Schaefer and N. Traikoudis (20WOM-04)_
+* [From Microtechnology to Nanotechnology](http://www.microengineering.teithe.gr/WoMGREECE2020/2020_WOM_Proceedings.pdf), _D. Bagdatoglou, N. Balp, A. Bantis, R. Beal, Y. Carmichael, C. I. Danaskou, K. Georgiadis, M. Michailidou, A. Nikolopoulos, S. Ntemkas, D. Parastatidou, V. Petitjean, H. Schaefer and N. Traikoudis (20WOM-05)_
 

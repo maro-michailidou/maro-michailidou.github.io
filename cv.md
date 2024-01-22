@@ -59,7 +59,7 @@ Design, fabrication and writing CE technical files for a prototype of a non-inva
    Certification of machine learning basics with Python and TensorFlow.
 
 ## **Publications:**
-* [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBantis.pdf), _M. Michailidou, A. Bantis (2022)
+* [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBantis.pdf), _A. Bantis, M. Michailidou (2022)_
 
 
 * [Fabrication and Development of an Optical Biomedical Sensor](http://www.microengineering.teithe.gr/WoMGREECE2021/2021_WOM_Proceedings.pdf), _A. Bantis, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-05)_

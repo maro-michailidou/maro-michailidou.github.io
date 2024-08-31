@@ -11,8 +11,9 @@ body > header, body > footer
   align-items: center
   justify-content: space-between
 
-body > header, body > article, body > footer
-  padding: 1.5em
+@media (max-width: 768px)
+  body > header, body > footer
+    flex-direction: column // Stack header and footer items for mobile
 
 article header
   margin-bottom: 1.5em
@@ -23,6 +24,10 @@ article header h1
 
 nav
   margin: .5em -1.2em
+
+@media (max-width: 768px)
+  nav
+    margin: .5em 0 // Adjust margins for navigation on mobile
 
 nav a
   margin: .5em 1.2em

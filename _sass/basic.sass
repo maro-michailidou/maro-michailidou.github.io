@@ -16,79 +16,27 @@ body
     background: linear-gradient(135deg, $gradient-end, $gradient-start)
     color: $light
 
-h1, h2, h3, h4, h5, h6
-  font-weight: $heading-weight
+@media (max-width: 768px) 
+  body
+    font-size: calc(0.8rem + 1vw) // Adjust font size for readability
+    padding: 1em
 
-b, strong, th
-  font-weight: $font-weight + 200
+  body > header, body > footer
+    padding: 1em
+    flex-direction: column // Stack header and footer items
 
-p
-  text-align: justify
+  article header h1
+    font-size: 1.5em // Slightly smaller header font size
 
-a
-  color: $link-color
-  text-decoration: inherit
-  &:hover
-    text-decoration: underline
+  nav
+    margin: .5em 0 // Adjust margins for navigation on mobile
 
-header a, footer a, aside a
-  color: inherit
-
-header time
-  color: reduce(100)
-
-hr
-  border: 1px solid reduce(30)
-  margin: 2em 0
-
-article:not(:last-of-type)
-  border-bottom: 1px solid reduce(14)
+  nav a
+    margin: .5em .5em // Reduce link margins for better fit on small screens
 
 blockquote
-  background: reduce(6)
-  border-left: 3px solid $link-color
-  padding: 1px 1.5em
-  opacity: .75
-
-blockquote, figure
-  margin: 1em 0
-
-img
-  margin: .5em 0
-  border-radius: 2px
-  max-width: 100%
-  height: auto
-
-li
-  margin: .25em 0
-
-table
-  display: inline-block
-  max-width: 100%
-  overflow-y: scroll
-  border-spacing: 1px
-  border-radius: 2px
-  box-shadow: 0 0 0 1px reduce(12) inset
-
-th, td
-  padding: .5em 1em
-  box-shadow: 0 0 0 1px reduce(12)
-
-tr:hover, tr:nth-child(odd) td
-  background: reduce(4)
+  padding: 0.5em 1em // Reduce padding in blockquotes for better fit on mobile
 
 pre
-  background: reduce(12)
-  border-radius: 2px
-  font-size: .8em
-  margin: 1.5em 0
-  padding: .8em 1.2em
-  overflow-x: auto
-
-\:not(pre) > code
-  font-size: .9em
-  background: reduce(15)
-  opacity: .7
-  border-radius: 2px
-  margin: 0 .1em
-  padding: .2em .4em
+  font-size: .9em // Increase preformatted text size for readability on mobile
+  padding: .6em 1em

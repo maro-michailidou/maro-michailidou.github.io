@@ -1,6 +1,6 @@
 ---
 title:  "BME-Medical-Robotics-Team-A-Testing"
-mathjax: false
+mathjax: true
 layout: post
 categories: media
 ---

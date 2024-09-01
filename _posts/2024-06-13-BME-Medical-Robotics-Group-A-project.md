@@ -1,3 +1,9 @@
+---
+title:  "BME-Medical-Robotics-Team-A-Testing"
+mathjax: false
+layout: post
+categories: media
+---
 # BME-Medical-Robotics-Team-A-Testing
 
 This repository is my individual contribution in code, for the [Medical Robotics Team A project](https://github.com/maro-michailidou/BME-Medical-Robotics-Team-A) needed for the Biomedical Engineering MSc by the Aristotle University of Thessaloniki. 

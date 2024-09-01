@@ -1,33 +1,27 @@
 body
   display: flex
   flex-direction: column
+  align-items: center // Centers the content horizontally
 
 article
   flex-grow: 1
+  width: 100% // Ensures the article takes up full width
+  max-width: 800px // Adds a max-width to the article to keep content centered
 
 body > header, body > footer
   display: flex
   flex-wrap: wrap
   align-items: center
   justify-content: space-between
+  width: 100%
+  max-width: 800px // Keeps the header and footer content centered and aligned with the posts
 
-@media (max-width: 768px)
-  body > header, body > footer
-    flex-direction: column // Stack header and footer items for mobile
-
-article header
-  margin-bottom: 1.5em
-
-article header h1
-  font-size: 1.7em
-  margin: 0 0 .1em
+body > header, body > article, body > footer
+  padding: 1.5em
+  margin: 0 auto // Centers the header, article, and footer within the viewport
 
 nav
   margin: .5em -1.2em
-
-@media (max-width: 768px)
-  nav
-    margin: .5em 0 // Adjust margins for navigation on mobile
 
 nav a
   margin: .5em 1.2em

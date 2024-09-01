@@ -28,13 +28,17 @@ article
 
 h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
-  text-align: center
-
-b, strong, th
-  font-weight: $font-weight + 200
+  text-align: center // Center headings
 
 p
   text-align: justify
+
+ul, ol
+  text-align: left // Align bullet points to the left
+  margin-left: 2em // Add some indentation
+
+li
+  margin: .25em 0
 
 a
   color: $link-color
@@ -82,9 +86,6 @@ img
   border-radius: 2px
   max-width: 100%
   height: auto
-
-li
-  margin: .25em 0
 
 table
   display: inline-block

@@ -11,14 +11,22 @@ body
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
 
+article
+  text-align: center // Centers the text within each article/post
+
+h1, h2, h3, h4, h5, h6
+  font-weight: $heading-weight
+  text-align: center // Ensures all headings within posts are centered
+
+// The rest of the styles remain unchanged
+
+
 @media (prefers-color-scheme: dark)
   body
     background: linear-gradient(135deg, $gradient-end, $gradient-start)
     color: $light
 
-h1, h2, h3, h4, h5, h6
-  font-weight: $heading-weight
-  text-align: center // Centered alignment for headings
+
 
 b, strong, th
   font-weight: $font-weight + 200

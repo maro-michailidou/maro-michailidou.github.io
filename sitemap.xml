@@ -1,52 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--  created with Free Online Sitemap Generator www.xml-sitemaps.com  -->
 <url>
-  <loc>https://maro-michailidou.eu/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://maro-michailidou.info/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>1.00</priority>
 </url>
 <url>
-  <loc>https://maro-michailidou.eu/cv/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://maro-michailidou.info/cv/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://maro-michailidou.eu/equipment/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://maro-michailidou.info/equipment/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://maro-michailidou.eu/DIY-Diagnosing-and-troubleshooting-electric-scooters/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://maro-michailidou.info/BME-Medical-Robotics-Group-A-project/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://maro-michailidou.eu/tif-beyond/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://maro-michailidou.info/DIY-Diagnosing-and-troubleshooting-electric-scooters/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://maro-michailidou.eu/Triggo-Erasmus-Internship/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://maro-michailidou.info/Medium-scale-projects-as-a-means-for-educating-students-on-electric-vehicle-technology/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://maro-michailidou.eu/EVAE-lab-Internship/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://maro-michailidou.info/tif-beyond/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
 <url>
-  <loc>https://maro-michailidou.eu/Udacity-Front-End-Web-Developer-Nanodegree/</loc>
-  <lastmod>2023-10-05T09:14:16+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://maro-michailidou.info/Triggo-Erasmus-Internship/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
 </url>
-
-
+<url>
+<loc>https://maro-michailidou.info/EVAE-lab-Internship/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://maro-michailidou.info/Udacity-Front-End-Web-Developer-Nanodegree/</loc>
+<lastmod>2024-09-01T11:26:38+00:00</lastmod>
+<priority>0.80</priority>
+</url>
 </urlset>

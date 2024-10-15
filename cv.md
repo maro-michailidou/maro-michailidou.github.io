@@ -18,18 +18,18 @@ layout: page
 ### R&D Engineer  
 **Erlikon, Sidenor** (July 2024 - Present)  
 - Developed microcontroller-based devices for quality control of welding rods.  
-- Implemented object detection models in industrial environments, improving defect detection rates by 30%.  
-- Introduced automated systems that reduced manual inspection time by 25%.  
+- Implemented object detection models in industrial environments, improving defect detection rates.  
+- Introduced automated systems that reduced manual inspection time.  
 
 ### Engineering Intern  
 **Energy Systems Lab, IHU** (2022, 7 months)  
-- Programmed Arduino for electric vehicles, marine sensors, and IoT EV chargers.  
+- Created Arduino prototypes for electric vehicles, marine sensors, and IoT EV chargers.  
 - Certified as a Sustainable Electric Mobility Engineering Expert (ECQA).  
-- Created video tutorials on Arduino programming for postgraduate students.  
+- Helped in teaching Arduino programming for postgraduate students.  
 
 ### Erasmus Intern  
 **Triggo S.A., Warsaw** (2022, 2 weeks)  
-- Programmed object detection models in Python using TensorFlow.  
+- Programmed object detection models in Python.  
 - Designed and repaired electric vehicle PCBs (SMD soldering, Altium Designer).  
 
 ## EDUCATION
@@ -37,7 +37,7 @@ layout: page
 ### MSc in Biomedical Engineering  
 **Aristotle University of Thessaloniki** (2023 - Present)  
 - Created machine learning models for meniscus tear detection and skin cancer detection.  
-- Developed an air quality monitoring device with vital function tracking (e.g., blood oxygen, heart rate).  
+- Developed an air quality monitoring device with vital function tracking (blood oxygen, heart rate).  
 
 ### BSc in Automation Engineering and Mechatronics  
 **International Hellenic University** (2016 - 2022)  

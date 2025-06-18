@@ -15,8 +15,14 @@ layout: page
 
 ## WORK EXPERIENCE
 
-### R&D Engineer  
-**Erlikon, Sidenor** (July 2024 - Present)  
+### Electronics Engineer Trainee 
+**GWF** (March 2025 - September 2025)  
+- PCB Design with Altium Designer
+- Design, Prototyping, SMD Soldering, Testing of PCBs.   
+- Automation scripts for version control.   
+
+### R&D Freelance Engineer  
+**Erlikon, Sidenor** (July 2024 - November 2024)  
 - Developed microcontroller-based devices for quality control of welding rods.  
 - Implemented object detection models in industrial environments, improving defect detection rates.  
 - Introduced automated systems that reduced manual inspection time.  

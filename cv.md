@@ -74,17 +74,21 @@ layout: page
 - MongoDB Node.js Developer Path, MongoDB (2023)  
 
 
-## **Publications:**
+## **Academic Papers:**
+* [AI-Driven Bio-Silicon Intelligence System: Integrating Hybrid Systems, Biocomputing, Neural Networks, and Machine Learning, for Advanced Neurotechnology](https://www.researchgate.net/publication/382396294_AI-Driven_Bio-Silicon_Intelligence_System_Integrating_Hybrid_Systems_Biocomputing_Neural_Networks_and_Machine_Learning_for_Advanced_Neurotechnology?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ), _V. Jorgsson, Raghav Kumar, Mustaf Ahmed, Maxx Yung, A. Pattnayak, M. Michailidou (2024)_
+
+* [Bio-Silicon Intelligence System: Integrating Analogue and Digital Computing in a Biological-Silicon Hybrid System](https://www.researchgate.net/publication/379048160_Bio-Silicon_Synergetic_Intelligence_System_Phase_1_Software_Development_and_Prospective_Implantation_of_Microelectrode_Arrays_and_Human_Cortical_Organoids_into_Rat_Brains](https://www.researchgate.net/publication/382175923_Bio-Silicon_Intelligence_System_Integrating_Analogue_and_Digital_Computing_in_a_Biological-Silicon_Hybrid_System?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)](https://www.researchgate.net/publication/382175923_Bio-Silicon_Intelligence_System_Integrating_Analogue_and_Digital_Computing_in_a_Biological-Silicon_Hybrid_System?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)), _V. Jorgsson, Raghav Kumar, Mustaf Ahmed, Maxx Yung, A. Pattnayak, M. Michailidou (2024)_
+
 * [Bio-Silicon Synergetic Intelligence System (Phase 1): Software Development and Prospective Implantation of Microelectrode Arrays and Human Cortical Organoids into Rat Brains](https://www.researchgate.net/publication/379048160_Bio-Silicon_Synergetic_Intelligence_System_Phase_1_Software_Development_and_Prospective_Implantation_of_Microelectrode_Arrays_and_Human_Cortical_Organoids_into_Rat_Brains), _M. Michailidou, A. Pattnayak, V. Jorgsson (2024)_
 
 * [Medium scale projects as a means for educating students on electric vehicle technology](http://microengineering.iem.ihu.gr/WoMGREECE/2022_WOM_Proceedings.pdf), _M. Michailidou, , M. Ciudin, E. V. Enache, A. Samaras
 and X. Fejzo (22WOM-07)_
 
-* [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBantis.pdf), _A. Bantis, M. Michailidou (2022)_
+* [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBantis.pdf), Ourania J. Banti, M. Michailidou (2022)_
 
 
-* [Fabrication and Development of an Optical Biomedical Sensor](http://www.microengineering.teithe.gr/WoMGREECE2021/2021_WOM_Proceedings.pdf), _A. Bantis, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-06)_
+* [Fabrication and Development of an Optical Biomedical Sensor](http://www.microengineering.teithe.gr/WoMGREECE2021/2021_WOM_Proceedings.pdf), _Ourania J. Banti, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-06)_
 
 
-* [From Microtechnology to Nanotechnology](http://www.microengineering.teithe.gr/WoMGREECE2020/2020_WOM_Proceedings.pdf), _D. Bagdatoglou, N. Balp, A. Bantis, R. Beal, Y. Carmichael, C. I. Danaskou, K. Georgiadis, M. Michailidou, A. Nikolopoulos, S. Ntemkas, D. Parastatidou, V. Petitjean, H. Schaefer and N. Traikoudis (20WOM-05)_
+* [From Microtechnology to Nanotechnology](http://www.microengineering.teithe.gr/WoMGREECE2020/2020_WOM_Proceedings.pdf), _D. Bagdatoglou, N. Balp, Ourania J. Banti, R. Beal, Y. Carmichael, C. I. Danaskou, K. Georgiadis, M. Michailidou, A. Nikolopoulos, S. Ntemkas, D. Parastatidou, V. Petitjean, H. Schaefer and N. Traikoudis (20WOM-05)_
 

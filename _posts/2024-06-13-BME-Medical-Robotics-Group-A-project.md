@@ -1,5 +1,5 @@
 ---
-title:  "BME-Medical-Robotics-Team-A-Testing"
+title:  "BME Medical Robotics Unity and Robotic Arm Control"
 mathjax: true
 layout: post
 categories: media

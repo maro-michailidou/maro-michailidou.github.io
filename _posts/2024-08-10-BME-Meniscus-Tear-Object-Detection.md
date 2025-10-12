@@ -4,7 +4,6 @@ mathjax: true
 layout: post
 categories: media
 ---
-## Project Overview
 
 This project focuses on developing and comparing deep learning systems to classify knee MRI images for detecting meniscus tears. The implementation compares a custom Convolutional Neural Network (CNN) with ResNet architecture to distinguish between normal meniscus ("n" label) and torn meniscus ("p" label) in sagittal MRI images from the Stanford University MRNet database.
 

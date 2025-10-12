@@ -1,5 +1,9 @@
-# BME Meniscus Project: MRI Image Classification for Meniscus Tears
-
+---
+title:  "BME Meniscus Project: MRI Image Classification for Meniscus Tears"
+mathjax: true
+layout: post
+categories: media
+---
 ## Project Overview
 
 This project focuses on developing and comparing deep learning systems to classify knee MRI images for detecting meniscus tears. The implementation compares a custom Convolutional Neural Network (CNN) with ResNet architecture to distinguish between normal meniscus ("n" label) and torn meniscus ("p" label) in sagittal MRI images from the Stanford University MRNet database.
@@ -82,9 +86,16 @@ for set_name, folds_dict in [('train', train_folds_dict), ('val', val_folds_dict
         print(f"Number of 'p' labels: {num_p_labels}")
 ```
 - Label distribution across folds (balanced vs. imbalanced classes)
+<img src="/assets/test.PNG" alt="Testing Set Labels" width="400" height="300">
+<img src="/assets/train.PNG" alt="Training Set Labels" width="400" height="300">
+<img src="/assets/validation.PNG" alt="Validation Set Labels" width="400" height="300">
+
 - Patient-wise image distribution
 - Identification of patients with both normal and torn meniscus images
 - Image dimension verification (ensuring 256×256 consistency)
+
+<img src="/assets/img-size.PNG" alt="Resizing dataset images" width="400" height="300">
+The resizing of the images of the dataset was essential since it allowed for the CNN to focus only on the image of the knee in order to extract information. By isolating and training the neural networks only on that part of the image, a lot of the noise in the dataset was removed and the efficiency of the CNN increased significantly. 
 
 ### 3. Image Preprocessing
 ```python
@@ -344,6 +355,29 @@ print(len(finalDf.loc[finalDf.label == "p"]),"Positive casses after balancing")
 print(len(finalDf.loc[finalDf.label == "n"]),"Negative casses after balancing")
 ```
 ### 7. CNN Architecture
+| Layer (type) | Output Shape | Param # |
+|---|---|---|
+| conv2d_3 (Conv2D) | (None, 126, 126, 32) | 320 |
+| batch_normalization_2 (BatchNormalization) | (None, 126, 126, 32) | 128 |
+| activation_7 (Activation) | (None, 126, 126, 32) | 0 |
+| max_pooling2d_1 (MaxPooling2D) | (None, 63, 63, 32) | 0 |
+| conv2d_4 (Conv2D) | (None, 61, 61, 64) | 18,496 |
+| activation_8 (Activation) | (None, 61, 61, 64) | 0 |
+| conv2d_5 (Conv2D) | (None, 59, 59, 128) | 73,856 |
+| batch_normalization_3 (BatchNormalization) | (None, 59, 59, 128) | 512 |
+| activation_9 (Activation) | (None, 59, 59, 128) | 0 |
+| flatten_1 (Flatten) | (None, 445568) | 0 |
+| dense_4 (Dense) | (None, 1000) | 445,569,000 |
+| activation_10 (Activation) | (None, 1000) | 0 |
+| dropout_3 (Dropout) | (None, 1000) | 0 |
+| dense_5 (Dense) | (None, 1000) | 1,001,000 |
+| activation_11 (Activation) | (None, 1000) | 0 |
+| dropout_4 (Dropout) | (None, 1000) | 0 |
+| dense_6 (Dense) | (None, 1000) | 1,001,000 |
+| activation_12 (Activation) | (None, 1000) | 0 |
+| dropout_5 (Dropout) | (None, 1000) | 0 |
+| dense_7 (Dense) | (None, 1) | 1,001 |
+| activation_13 (Activation) | (None, 1) | 0 |
 The core model implements a sequential CNN with the following structure:
 ```python
 import cv2

@@ -6,24 +6,29 @@ layout: page
 
 ## SKILLS
 
-**Programming:** Python, MATLAB, C++, ARM, Arduino, ESP32  
+**Programming:** Python, MATLAB, C++ for embedded systems.
 **Hardware:** PCB Design, Arduino, Beaglebone Black, SMD Soldering  
 **Machine Learning:** Object Segmentation, TinyML, OpenCV, Edge Impulse  
 **Web Development:** MongoDB, Express, Node, Angular, SQL  
-**3D Design:** AutoCAD, Onshape, Solidworks  
+**3D Design:** AutoCAD, Onshape,   
 **Languages:** English (C2, University of Michigan)  
+**Soft Skills:** Problem solving, Collaborative, Communicative  
 
 ## WORK EXPERIENCE
 
 ### Electronics Engineer Trainee 
 **GWF** (March 2025 - September 2025)  
-- PCB Design with Altium Designer
-- Design, Prototyping, SMD Soldering, Testing of PCBs.   
-- Automation scripts for version control.   
+- Contributed to PCB designs of products using Altium designer and Git.
+- Soldering, assembling, debugging, repairing and updating existing hardware products. 
+- Testing  and evaluation of electronics and PCBA mass manufacturers in the EU. 
+- Performed End of Life testing for hardware products. 
+- Analyzed data for battery performance of Lo-Ra transmission packets.
+- Created python tools for the automated schematic and PCB comparison of Altium design files with Git.  
+ 
 
 ### R&D Freelance Engineer  
 **Erlikon, Sidenor** (July 2024 - November 2024)  
-- Developed microcontroller-based devices for quality control of welding rods.  
+- Developed an embedded system for quality control of welding rods.  
 - Implemented object detection models in industrial environments, improving defect detection rates.  
 - Introduced automated systems that reduced manual inspection time.  
 
@@ -41,9 +46,10 @@ layout: page
 ## EDUCATION
 
 ### MSc in Biomedical Engineering  
-**Aristotle University of Thessaloniki** (2023 - Present)  
+**Aristotle University of Thessaloniki** (2023 - 2026)  
 - Created machine learning models for meniscus tear detection and skin cancer detection.  
-- Developed an air quality monitoring device with vital function tracking (blood oxygen, heart rate).  
+- Developed an air quality monitoring device with vital function tracking (blood oxygen, heart rate).
+
 
 ### BSc in Automation Engineering and Mechatronics  
 **International Hellenic University** (2016 - 2022)  
@@ -57,8 +63,9 @@ layout: page
 
 ### Master’s Thesis  
 **Iterative Development, Validation, and Benchmarking of Custom and Commercial EMG, EEG, and fNIRS Sensors** (2024 - Present)  
-- Manufacturing of EEG and fNIRS biological phantoms.
-- Data acquisition and data analysis of EEG, EMG, fNIRS data from custom and commercial grade sensors.   
+- Designed 5 different high complexity, 4-layer biomedical signal acquisition PCBs for Electroencephalography, Functional Near Infrared Spectroscopy and Surface Electromyography. 
+- Significantly dropped electronics and manufacturing costs from previous iterations of the devices.
+- Familiarity with hardware design of STM32, iMX RT1062 and Nordic embedded microcontrollers.
 
 ### Bachelor’s Thesis  
 **Scattering Measurements with Beaglebone Microcomputer for Biomedical Sensors** (2021-2022)  
@@ -75,9 +82,12 @@ layout: page
 
 
 ## **Academic Papers:**
+* [ITERATIVE DEVELOPMENT, TESTING, VALIDATION AND BENCHMARKING OF CUSTOM EEG, fNIRS AND sEMG SENSORS](https://www.researchgate.net/publication/382396294_AI-Driven_Bio-Silicon_Intelligence_System_Integrating_Hybrid_Systems_Biocomputing_Neural_Networks_and_Machine_Learning_for_Advanced_Neurotechnology?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ), _Maria Michailidou, Vicky Fiska, Vasiliki Mantiou, Panagiotis Bamidis and Alkinoos Athanasiou (2025)_
+
+
 * [AI-Driven Bio-Silicon Intelligence System: Integrating Hybrid Systems, Biocomputing, Neural Networks, and Machine Learning, for Advanced Neurotechnology](https://www.researchgate.net/publication/382396294_AI-Driven_Bio-Silicon_Intelligence_System_Integrating_Hybrid_Systems_Biocomputing_Neural_Networks_and_Machine_Learning_for_Advanced_Neurotechnology?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ), _V. Jorgsson, Raghav Kumar, Mustaf Ahmed, Maxx Yung, A. Pattnayak, M. Michailidou (2024)_
 
-* [Bio-Silicon Intelligence System: Integrating Analogue and Digital Computing in a Biological-Silicon Hybrid System](https://www.researchgate.net/publication/379048160_Bio-Silicon_Synergetic_Intelligence_System_Phase_1_Software_Development_and_Prospective_Implantation_of_Microelectrode_Arrays_and_Human_Cortical_Organoids_into_Rat_Brains](https://www.researchgate.net/publication/382175923_Bio-Silicon_Intelligence_System_Integrating_Analogue_and_Digital_Computing_in_a_Biological-Silicon_Hybrid_System?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)](https://www.researchgate.net/publication/382175923_Bio-Silicon_Intelligence_System_Integrating_Analogue_and_Digital_Computing_in_a_Biological-Silicon_Hybrid_System?_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InByb2ZpbGUiLCJwYWdlIjoicHJvZmlsZSJ9fQ)), _V. Jorgsson, Raghav Kumar, Mustaf Ahmed, Maxx Yung, A. Pattnayak, M. Michailidou (2024)_
+* [Bio-Silicon Intelligence System: Integrating Analogue and Digital Computing in a Biological-Silicon Hybrid System](https://www.researchgate.net/publication/379048160_Bio-Silicon_Synergetic_Intelligence_System_Phase_1_Software_Development_and_Prospective_Implantation_of_Microelectrode_Arrays_and_Human_Cortical_Organoids_into_Rat_Brains), _V. Jorgsson, Raghav Kumar, Mustaf Ahmed, Maxx Yung, A. Pattnayak, M. Michailidou (2024)_
 
 * [Bio-Silicon Synergetic Intelligence System (Phase 1): Software Development and Prospective Implantation of Microelectrode Arrays and Human Cortical Organoids into Rat Brains](https://www.researchgate.net/publication/379048160_Bio-Silicon_Synergetic_Intelligence_System_Phase_1_Software_Development_and_Prospective_Implantation_of_Microelectrode_Arrays_and_Human_Cortical_Organoids_into_Rat_Brains), _M. Michailidou, A. Pattnayak, V. Jorgsson (2024)_
 

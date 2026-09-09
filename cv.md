@@ -91,14 +91,16 @@ layout: page
 
 * [Bio-Silicon Synergetic Intelligence System (Phase 1): Software Development and Prospective Implantation of Microelectrode Arrays and Human Cortical Organoids into Rat Brains](https://www.researchgate.net/publication/379048160_Bio-Silicon_Synergetic_Intelligence_System_Phase_1_Software_Development_and_Prospective_Implantation_of_Microelectrode_Arrays_and_Human_Cortical_Organoids_into_Rat_Brains), _M. Michailidou, A. Pattnayak, V. Jorgsson (2024)_
 
-* [Medium scale projects as a means for educating students on electric vehicle technology](http://microengineering.iem.ihu.gr/WoMGREECE/2022_WOM_Proceedings.pdf), _M. Michailidou, , M. Ciudin, E. V. Enache, A. Samaras
-and X. Fejzo (22WOM-07)_
+* [Further Evaluation and Calibration of a Mie Scattering-based Apparatus for Portable Optical Haematological Analysis](https://microengineering.iem.ihu.gr/WoMGREECE/pdf/2023_WOM_Proceedings.pdf), _O. Banti, M. Michailidou and A. Dziuba, (2023)_
 
-* [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBantis.pdf), Ourania J. Banti, M. Michailidou (2022)_
+* [Medium scale projects as a means for educating students on electric vehicle technology](http://microengineering.iem.ihu.gr/WoMGREECE/pdf/2022_WOM_Proceedings.pdf), _M. Michailidou, , M. Ciudin, E. V. Enache, A. Samaras
+and X. Fejzo (2022)_
+
+* [Scattering measurements with the Beaglebone microcomputer for portable biomedical sensors](http://microengineering.iem.ihu.gr/repo/2022MichailidouBanti.pdf), Ourania J. Banti, M. Michailidou (2022)_
 
 
-* [Fabrication and Development of an Optical Biomedical Sensor](http://www.microengineering.teithe.gr/WoMGREECE2021/2021_WOM_Proceedings.pdf), _Ourania J. Banti, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-06)_
+* [Fabrication and Development of an Optical Biomedical Sensor](https://microengineering.iem.ihu.gr/WoMGREECE/pdf/2021_WOM_Proceedings.pdf), _Ourania J. Banti, M. Michailidou, E. Gkagkanis, K. Karakostas and M. E. Kiziroglou (21WOM-06)_
 
 
-* [From Microtechnology to Nanotechnology](http://www.microengineering.teithe.gr/WoMGREECE2020/2020_WOM_Proceedings.pdf), _D. Bagdatoglou, N. Balp, Ourania J. Banti, R. Beal, Y. Carmichael, C. I. Danaskou, K. Georgiadis, M. Michailidou, A. Nikolopoulos, S. Ntemkas, D. Parastatidou, V. Petitjean, H. Schaefer and N. Traikoudis (20WOM-05)_
+* [From Microtechnology to Nanotechnology](https://microengineering.iem.ihu.gr/WoMGREECE/pdf/2020_WOM_Proceedings.pdf), _D. Bagdatoglou, N. Balp, Ourania J. Banti, R. Beal, Y. Carmichael, C. I. Danaskou, K. Georgiadis, M. Michailidou, A. Nikolopoulos, S. Ntemkas, D. Parastatidou, V. Petitjean, H. Schaefer and N. Traikoudis (20WOM-05)_
 

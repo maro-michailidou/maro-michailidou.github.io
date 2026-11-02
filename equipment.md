@@ -21,4 +21,5 @@ layout: page
 
 - Altium Designer
 - KiCad
+- PSpice
 - Autodesk Fusion

@@ -19,6 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "Home", icon: home}
   - {file: "cv.md", title: "CV", icon: file-alt}
   - {file: "equipment.md", title: "Equipment", icon: tools}
+  - {file: "quotation.md", title: "Freelancing", icon: briefcase}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:michaelidoumary@gmail.com"}

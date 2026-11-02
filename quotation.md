@@ -6,21 +6,21 @@ layout: page
 
 I help teams build better electronics for less. My background is in PCB design with Altium Designer and KiCad, embedded systems and biomedical sensing hardware, and I take on freelance projects in the areas below.
 
-<u> **PCB design review** </u>
+**PCB design review:**
 
-I review your schematics and PCB layouts and suggest modifications that improve manufacturability and reduce cost, such as component choices, board stackup and layout changes that make assembly easier and more reliable.
+I review your schematics and PCB layouts and suggest modifications that improve manufacturability and reduce cost, such as component choices, board stackup and layout changes that make assembly easier and more reliable. I can provide you with a written review report listing each finding with a recommended change, prioritized by impact on manufacturability and cost.
 
-<u> **Cost reduction across multiple devices** </u>
+**Cost reduction across multiple devices:**
 
-I can look at several of your electronic devices in your portfolio and find where the total cost of components and manufacturing can come down. This includes comparing components and suppliers, consolidating parts across products, and simplifying designs while keeping the functionality you need.
+I can look at several of your electronic devices in your portfolio and find where the total cost of components and manufacturing can come down. This includes comparing components and suppliers, consolidating parts across products, and simplifying designs while keeping the functionality you need. I can create a cost analysis report with a comparison of your current and proposed bill of materials, and a list of recommended changes with their estimated savings.
 
-<u> **Custom test fixtures** </u>
+**Custom test fixtures:**
 
-I design and build test fixtures that check electronic components against specialized specifications, including acoustic, optical and biomedical sensors.
+I design and build test fixtures that check electronic components against specialized specifications, including acoustic, optical and biomedical sensors. I can deliver a working test fixture, together with its design files and a short usage guide.
 
-<u> **Custom Python scripts for quality control** </u>
+**Custom Python scripts for quality control:**
 
-I write Python scripts tailored to your workflow to save time in your electronic quality control process, using test fixtures or computer vision.
+I write Python scripts tailored to your workflow to save time in your electronic quality control process, using test fixtures or computer vision. I can write documented Python code adapted to your workflow, with setup instructions and a short walkthrough of how to run it.
 
 Send me:
 
@@ -31,5 +31,3 @@ Send me:
 [Email me your request](mailto:michaelidoumary@gmail.com?subject=Quotation%20request)
 
 I will reply with a scope, timeline and price for your project.
-
-</div>

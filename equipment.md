@@ -1,5 +1,5 @@
 ---
-title: "Equipment I use"
+title: "Available equipment for prototyping"
 permalink: "/equipment/"
 layout: page
 ---
@@ -17,9 +17,17 @@ layout: page
 - BeagleBone Black Rev. C
 - Arduino Uno Q
 
-**Design tools:**
+**Lab equipment:**
+
+- Siglent SDS1102CML+ oscilloscope
+- Adjustable bench power supply (60 V, 5 A)
+- Yihua 8786D soldering station with hot air
+- Bambu Lab A1 mini 3D printer
+
+**Design software:**
 
 - Altium Designer
 - KiCad
 - PSpice
+- CST Studio
 - Autodesk Fusion

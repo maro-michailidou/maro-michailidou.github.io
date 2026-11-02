@@ -3,15 +3,10 @@ layout: default
 title: "Home"
 ---
 > **Hello traveler!!!**
-> 
-> I'm a recent graduate in **Automation Engineering** and a currently a MSc student in **Biomedical Engineering**
-> with a lot of creativity and not enough time to work on all of my
-> ongoing projects. This website is the place where I will hopefully document some of
-> them along with notable events from my career.  My interests are
-> in *hardware development*, *biomedical engineering*, *electric mobility*, and *machine learning*.
 >
-> Hope you find whatever you're looking for!  
-> **:D**
+> I am a hardware and PCB design engineer with a BSc in Automation Engineering and Mechatronics and an MSc in Biomedical Engineering. My interests are in *electronics hardware development*, *biomedical embedded devices*, and *best design practices for easy repair and manufacturing*. Thank you for visiting.
+>
+> Feel free to get in touch!
 
 
 

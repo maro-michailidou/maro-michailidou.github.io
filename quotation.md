@@ -4,7 +4,11 @@ permalink: /quotation/
 layout: page
 ---
 
-I help teams build better electronics for less. My background is in PCB design with Altium Designer and KiCad, embedded systems and biomedical sensing hardware, and I take on freelance projects in the areas below.
+My professional background is in PCB design with Altium Designer and KiCad, embedded systems and biomedical sensing hardware, and I take on freelance projects in the areas below.
+
+### How I work
+
+I'm an EU-based engineer, and your files are handled in line with the GDPR. Your schematics, Gerbers, BOMs and test data are used only for your project, kept confidential, and deleted on request once the work is done. I'm happy to sign an NDA before you send any files. I do not use AI or LLM tools in my professional work, so your designs and data are never uploaded to or processed by them.
 
 ### PCB design review:
 
@@ -28,6 +32,7 @@ Send me:
 - A short description of your project or the devices involved
 - Any available files (schematics, Gerbers, BOMs, test specifications)
 - Your deadline and the outcome you are aiming for
+- Whether you'd like an NDA signed before you share files
 
 [Email me your request](mailto:michaelidoumary@gmail.com?subject=Quotation%20request)
 
